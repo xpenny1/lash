@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/usr/bin/env sh
 
 gcc ./parse.c -o ./build/parse
 ./build/parse <<CC
